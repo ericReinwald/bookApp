@@ -28,7 +28,7 @@ const App = () => {
       author: "Autor Desconocido",
       pageCount: "0",
       describe: "Sin descripción",
-      notes: "Sin notas",
+      notes: "Sin notaaaaas",
       progress: 0, // Inicializamos el progreso en 0
     };
     setBooks([...books, newBook]);
